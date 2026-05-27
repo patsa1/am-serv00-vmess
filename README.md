@@ -17,9 +17,10 @@
 
 Cloudflare Tunnel Argo部署
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/patsa1/am-serv00-vmess/refs/heads/main/install-argo.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/patsa1/am-serv00-vmess_argo/refs/heads/main/install-argo.sh)
 ```
  [Cloudflare Tunnel Argo部署 视频教程](https://www.youtube.com/watch?v=3BrKajx5ppQ&t=12s)
+ 
  [Cloudflare Tunnel Argo部署 视频教程](https://www.youtube.com/watch?v=S_60kk7Kiks)
  
 
