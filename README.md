@@ -19,9 +19,9 @@ Cloudflare Tunnel Argo部署
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/patsa1/am-serv00-vmess/refs/heads/main/install-argo.sh)
 ```
-<center><a https://www.youtube.com/watch?v=3BrKajx5ppQ&t=12s>[点击观看视频教程]</a></center>
-<center><a https://www.youtube.com/watch?v=S_60kk7Kiks>[点击观看视频教程]</a></center>
-
+ [视频教程](https://www.youtube.com/watch?v=3BrKajx5ppQ&t=12s)
+ [视频教程](https://www.youtube.com/watch?v=S_60kk7Kiks)
+ 
 
 ## 一、需要准备的前提资料
 ### 1、首先注册一个Serv00账号，建议使用gmail邮箱注册，注册好会有一封邮箱上面写着你注册时的用户名和密码
