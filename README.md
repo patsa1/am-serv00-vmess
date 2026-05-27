@@ -14,6 +14,7 @@
 - [GitHub Actions保活教程](https://youtu.be/zkGGklEaO2I)
 
 # 部署教程：
+Cloudflare Tunnel Argo部署
 
 ## 一、需要准备的前提资料
 ### 1、首先注册一个Serv00账号，建议使用gmail邮箱注册，注册好会有一封邮箱上面写着你注册时的用户名和密码
